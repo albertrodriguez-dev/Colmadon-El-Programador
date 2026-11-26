@@ -60,7 +60,11 @@ These tables are linked by primary and foreign keys to maintain data integrity.
 4. Execute `03_consultas.sql` to explore database queries.
 5. Execute `04_objetos.sql` to create the database objects.
 
+## Entity-Relationship Diagram
+![Database ER Diagram](AR_Colmadon%20El%20Programador.jpg)
+
 ## Author
 **Albert Rodriguez**
 Computer Science Student — Hostos Community College
 Aspiring Full Stack Developer
+
